@@ -1,0 +1,13 @@
+import styled from '@emotion/styled';
+
+export const List = styled.ul`
+  list-style-type: none;
+display:column;
+
+`;
+
+export const Text = styled.p`
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 10px;
+`;
